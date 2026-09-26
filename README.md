@@ -197,4 +197,4 @@ Yeni ekran ve senaryo standartları: [`docs/CONTRIBUTING.md`](docs/CONTRIBUTING.
 
 ## Lisans
 
-Repository için henüz lisans belirlenmemiştir. Açık kaynak dağıtımında uygun bir lisans eklenmelidir.
+Bu proje MIT License altında lisanslanmıştır.
